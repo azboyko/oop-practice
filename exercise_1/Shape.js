@@ -23,7 +23,6 @@ export class Shape {
             this.element.style.left = `${newX}px`;
             this.element.style.top = `${newY}px`;
         }
-
     }
 
     show() {
